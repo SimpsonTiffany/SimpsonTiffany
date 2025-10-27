@@ -15,8 +15,7 @@ I enjoy turning complex requirements into clear, testable solutions that improve
 - Python automation and analytics  
 - Git workflows and clean commit histories  
 
-## Connect
-- **LinkedIn:** [linkedin.com/in/your-link](#)  
-- **Email:** your.professional.email@example.com
+## Connect 
+- **Email:** simpsontiffany84@gmail.com
 
 -->
