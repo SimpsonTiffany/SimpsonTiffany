@@ -63,4 +63,16 @@
 ---
 
 ✨ *Always open to opportunities in Business Analysis, Cloud, and Data projects.*
+---
+
+## 💬 About Me  
+
+💡 I’m driven by curiosity and a love for solving problems — whether it’s improving a process, mapping data, or automating reports.  
+💻 I’m currently wrapping up my B.S. in Computer Science (Cybersecurity) while working toward cloud certifications.  
+☕ I believe the best projects start with collaboration, strong communication, and a little caffeine.  
+🌍 Outside of tech, I enjoy family time, creative projects, and exploring ways technology can make daily life easier.  
+
+---
+⭐ *Thanks for visiting my profile — feel free to connect or drop me an email!*
+
 
