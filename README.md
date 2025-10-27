@@ -1,3 +1,26 @@
+# 👋 Hi, I'm Tiffany Simpson  
+🎯 **Senior Business Analyst | CS (Cybersecurity) Student | Cloud & Data Enthusiast**
+
+> I’m passionate about transforming complex business requirements into clear, testable solutions.  
+> Skilled in Agile BA practices, cloud migration, and data analysis — with a love for learning and automation.
+
+---
+
+### 🛠️ Tech Stack & Tools  
+
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Platform-0078D4?logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-4479A1?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?logo=powerbi&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Agile%20Workflows-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?logo=confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation%20%26%20Scripting-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analytics-217346?logo=microsoftexcel&logoColor=white)
+
+---
+
+🌱 *Forever learning, improving, and building tech that makes a difference.*
+
 ## Skills & Tools
 
 **Business Analysis**
