@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**SimpsonTiffany/SimpsonTiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tiffany Simpson 👋
 
-Here are some ideas to get you started:
+I’m a Senior Business Analyst and Computer Science student focusing on cybersecurity, Azure, and data analytics.  
+I enjoy turning complex requirements into clear, testable solutions that improve business outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+- **Business Analysis:** Requirements gathering, UAT, workflows, wireframes  
+- **Tools:** Jira, Confluence, Power BI, Excel, SQL Server, Azure, Git/GitHub  
+- **Domains:** Healthcare, Contact Center, Telecom, Government Tech  
+
+## Currently Learning
+- Azure fundamentals & cloud migration  
+- Python automation and analytics  
+- Git workflows and clean commit histories  
+
+## Connect
+- **LinkedIn:** [linkedin.com/in/your-link](#)  
+- **Email:** your.professional.email@example.com
+
 -->
