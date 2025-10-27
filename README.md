@@ -30,3 +30,14 @@
 - Developing **Excel automation macros** for data reporting  
 - Completing my **B.S. in Computer Science (Cybersecurity)**  
 - Strengthening my **Git & Version Control** workflow skills
+## Connect With Me
+
+📫 **Email:** [simpsontiffany84@gmail.com](mailto:simpsontiffany84@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/simpsontiffany](https://www.linkedin.com/in/simpsontiffany)  
+🌐 **Portfolio (Coming Soon):** https://simpsontiffany.dev  
+📍 **Location:** Columbia, South Carolina  
+
+---
+
+✨ *Always open to opportunities in Business Analysis, Cloud, and Data projects.*
+
