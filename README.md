@@ -17,3 +17,16 @@
 
 ## Connect 
 - **Email:** simpsontiffany84@gmail.com
+## Learning Goals & Current Projects
+
+🌱 **Currently Learning**
+- Python (automation, data analysis, chatbot development)
+- SQL queries and database design
+- Azure Fundamentals (cloud services, security, data management)
+- Agile/Scrum methodologies for team collaboration
+
+🚧 **Current Projects**
+- Building a **Python chatbot** to assist with daily task automation  
+- Developing **Excel automation macros** for data reporting  
+- Completing my **B.S. in Computer Science (Cybersecurity)**  
+- Strengthening my **Git & Version Control** workflow skills
