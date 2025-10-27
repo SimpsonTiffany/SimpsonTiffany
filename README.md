@@ -1,21 +1,19 @@
-## Hi there 👋
+## Skills & Tools
 
-# Hi, I'm Tiffany Simpson 👋
+**Business Analysis**
+- Requirements elicitation • User stories/acceptance criteria • Gap analysis • Process mapping (AS-IS/TO-BE) • UAT planning & execution
 
-I’m a Senior Business Analyst and Computer Science student focusing on cybersecurity, Azure, and data analytics.  
-I enjoy turning complex requirements into clear, testable solutions that improve business outcomes.
+**Agile / Collaboration**
+- Scrum ceremonies • Jira workflows/boards • Confluence docs • Stakeholder interviews • C-level readouts
 
-## Skills
-- **Business Analysis:** Requirements gathering, UAT, workflows, wireframes  
-- **Tools:** Jira, Confluence, Power BI, Excel, SQL Server, Azure, Git/GitHub  
-- **Domains:** Healthcare, Contact Center, Telecom, Government Tech  
+**Data / Cloud**
+- SQL (T-SQL) • Power BI • Excel (pivot tables, lookups) • Azure fundamentals (storage, data migration concepts)
 
-## Currently Learning
-- Azure fundamentals & cloud migration  
-- Python automation and analytics  
-- Git workflows and clean commit histories  
+**CX / CRM**
+- Genesys Cloud CX (call flows, UAT) • Salesforce (admin-level exposure)
+
+**Dev Basics**
+- Git/GitHub • Markdown • VS Code
 
 ## Connect 
 - **Email:** simpsontiffany84@gmail.com
-
--->
